@@ -5,12 +5,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-
-/**
- Pastoren amen mi eji hamar ira yurahatuk test@ pti grvi,,,, chdzec, bayc de inch arac....
- tamam info chunem, mi qich dzmzel u qcel repositorianeri mej:
- **/
-
 public class Runner {
 
     ChromeDriver chromeDriver;
